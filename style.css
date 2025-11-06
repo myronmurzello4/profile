@@ -1,12 +1,12 @@
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
-  background: #222;
+  background: #FFFFFF;
   color: #333;
 }
 
 nav {
-  background: #222;
+  background: #FFFFFf;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -32,7 +32,7 @@ nav {
 
 .nav-links a.active,
 .nav-links a:hover {
-  background: #222;
+  background: #FFFFFF;
   border-radius: 5px;
 }
 
@@ -100,3 +100,4 @@ img {
 
 
 }
+
